@@ -1,5 +1,5 @@
 # 🐦 About Me:
-Development specialist and recently graduated BS/MS Computing Security student making technology more secure and accessible for everyone.<br>📗	Professional-level security practitioner and analyst certifications (DoD 8140/CNSS 4011) <br>🔎	Specializations in network security, vulnerability analysis, threat hunting, and development <br>✨	Recipient of national entrepreneurship, scholarship, and service awards<br>❤️	Member of national defense, security, robotics, and STEM education organizations <br>
+Development specialist and PhD Cyber Operations student making technology more secure and accessible for everyone.<br>📗	Professional-level security practitioner and analyst certifications (DoD 8140/CNSS 4011) <br>🔎	Specializations in network security, vulnerability analysis, threat hunting, and development <br>✨	Recipient of national entrepreneurship, scholarship, and service awards<br>❤️	Member of national defense, security, robotics, and STEM education organizations <br>
 
 
 ## 🌐 Socials:
